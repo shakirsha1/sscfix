@@ -1,0 +1,17 @@
+Solvent_SMILES,Solute_SMILES,Temp
+O,c1ccccc1,298.15
+CCO,c1ccccc1,298.15
+CC(=O)C,c1ccccc1,298.15
+CCCCCC,c1ccccc1,298.15
+C1CCCCC1,c1ccccc1,298.15
+O,Cc1ccccc1,298.15
+CCO,Cc1ccccc1,298.15
+CC(=O)C,Cc1ccccc1,298.15
+O,c1ccc(O)cc1,298.15
+CCO,c1ccc(O)cc1,298.15
+O,c1ccccc1,350.0
+CCO,c1ccccc1,350.0
+CCO,c1ccccc1,323.15
+CCO,c1ccc(cc1)N,298.15
+CCCCCC,c1ccc2ccccc2c1,298.15
+CC(=O)C,Oc1ccccc1,298.15
